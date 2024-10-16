@@ -1,7 +1,4 @@
-#include <iostream>
-#include <fstream>
-#include "funcs.h"
-#include "BankAccount.h"
+#include "menu.h"
 
 int main() {
     
